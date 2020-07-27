@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">prototypeOne_calTracker</string>
+
+    <string-array name="activity">
+        <item>\n</item>
+        <item>Barely Exercise</item>
+        <item>1-3 Times/Week</item>
+        <item>4-5 Times/Week</item>
+        <item>6-7 Times/Week</item>
+        <item>More Than 7 Times/Week</item>
+    </string-array>
+</resources>
